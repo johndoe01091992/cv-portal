@@ -8,6 +8,7 @@ public class CvPortalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CvPortalApplication.class, args);
+		System.out.println("seccondCOmmit");
 	}
 
 }
